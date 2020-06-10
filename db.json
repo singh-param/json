@@ -1,0 +1,76 @@
+{
+  "users": [
+    { 
+"id": 1,
+"ename":"Spring Flower Show",
+"edesc":"Exhibition of flowers from all around the world",
+"date":"2020-12-06",
+"time":"12:00",
+"address":"Kulas Light, Apt. 556, Gwenborough",
+ "name": "Leanne Graham",
+"email":"Sincere@april.biz",
+"phone":"555-555-5555",
+"website":"hildegard.org"
+},
+    { 
+"id": 2,
+"ename":"Pop Music Concert",
+"edesc":"Late night pop culture music concert",
+"date":"2020-10-20",
+"time":"23:00",
+"address":"Victor Plains, NY",
+ "name": "Ervin Howell",
+"email":"howell@mail.com",
+"phone":"111-111-1111",
+"website":"popshow.com"
+},
+{ 
+"id": 3,
+"ename":"City Clean-up",
+"edesc":"City clean-up drive early in the morning",
+"date":"2020-08-18",
+"time":"06:30",
+"address":"Green Gardens, Toronto, CA",
+ "name": "Sham Gopal",
+"email":"sham@gopal.com",
+"phone":"789-654-1231",
+"website":"cityclean.org"
+},
+{ 
+"id": 4,
+"ename":"Blood Donation Camp",
+"edesc":"Blood donation camp is organised to support local blood bank",
+"date":"2020-08-14",
+"time":"08:00",
+"address":"City Hill Towers, NY",
+ "name": "John Kumar",
+"email":"john@gmail.com",
+"phone":"123-369-9874",
+"website":"bloodbank.com"
+},
+{ 
+"id": 5,
+"ename":"Cancer Awareness Camp",
+"edesc":"To aware local people about various cancer types",
+"date":"2020-07-21",
+"time":"10:00",
+"address":"City Community Hall",
+ "name": "Harry Potter",
+"email":"hogwarts@yahoo.com",
+"phone":"855-555-1255",
+"website":"hogwartscamp.org"
+},
+{ 
+"id": 6,
+"ename":"Texas Cake Show",
+"edesc":"Cake show to celebrate bakers from around the world",
+"date":"2020-06-11",
+"time":"11:20",
+"address":"Bakers Street, Texas",
+ "name": "Molly Robins",
+"email":"molly@yahoo.com",
+"phone":"852-369-7412",
+"website":"texascake.com"
+}
+  ]
+}
